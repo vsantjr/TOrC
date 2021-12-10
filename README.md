@@ -75,7 +75,7 @@ This folder contains additional processing required to support the implementatio
 
 ## Results
 
-In this folder, there are subflders with the most important results for all combinations of models (CNNs), dataset profiles, and architecture configurations, including:
+In this folder, there are subfolders with the most important results for all combinations of models (CNNs), dataset profiles, and architecture configurations, including:
 
 - plots of metrics obtained by the CNNs (accuracy, loss, precision, recall, F1-score) considering the training and validation datasets during the training phase;
 - reports of the misclassified and correctly classified images of the test dataset as well as of the training and validation datasets;
