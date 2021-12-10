@@ -29,27 +29,27 @@ where:
 
 `<m>`: number representing the model (CNN). It can assume the following values:
 
-1 = ResNet-18;
-2 = ResNet-34;
-3 = ResNeXt-50-32x4d;
-4 = Wide ResNet-50-2;
-5 = Inception v3;
-6 = ResNet-152;
-7 = DenseNet-161;
+- 1 = ResNet-18;
+- 2 = ResNet-34;
+- 3 = ResNeXt-50-32x4d;
+- 4 = Wide ResNet-50-2;
+- 5 = Inception v3;
+- 6 = ResNet-152;
+- 7 = DenseNet-161;
 
 `<p>`: number representing the dataset profile. It can assume the following values:
 
-1 = TD;
-2 = SS;
+- 1 = TD;
+- 2 = SS;
 
 `candp`: string with option combining architecture configuration and dataset profile. It can assume the following values:
 
-0t = TL architecture and TD profile;
-0s = TL architecture and SS profile;
-1t = TLE1L architecture and TD profile;
-1s = TLE1L architecture and SS profile;
-2t = TLE2L architecture and TD profile;
-2s = TLE2L architecture and SS profile.
+- 0t = TL architecture and TD profile;
+- 0s = TL architecture and SS profile;
+- 1t = TLE1L architecture and TD profile;
+- 1s = TLE1L architecture and SS profile;
+- 2t = TLE2L architecture and TD profile;
+- 2s = TLE2L architecture and SS profile.
  
 
 As an example, here is the command line to run the DenseNet-161 model, with the TLE1L architecture and TD profile:
