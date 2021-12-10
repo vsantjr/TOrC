@@ -42,7 +42,7 @@ where:
 - 1 = TD;
 - 2 = SS;
 
-`candp`: string with option combining architecture configuration and dataset profile. It can assume the following values:
+`<candp>`: string with option combining architecture configuration and dataset profile. It can assume the following values:
 
 - 0t = TL architecture and TD profile;
 - 0s = TL architecture and SS profile;
