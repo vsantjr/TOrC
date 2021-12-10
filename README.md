@@ -57,7 +57,7 @@ As an example, here is the command line to run the DenseNet-161 model, with the 
 python TOrC_TLE1L_Alt.py 7 1 1t 
 ```
 
-And to run the ResNet-18 model, with TLE2L architecture and profile SS:
+And to run the ResNet-18 model, with TLE2L architecture and SS profile:
 ```
 python TOrC_TLE2L_Alt.py 1 2 2s
 ```
