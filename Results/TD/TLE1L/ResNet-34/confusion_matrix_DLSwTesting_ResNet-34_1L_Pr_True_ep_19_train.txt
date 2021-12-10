@@ -1,0 +1,4 @@
+---- Confusion Matrix ----
+ Epoch: 19
+[[1280   64]
+ [  63 1281]]

@@ -1,0 +1,4 @@
+---- Confusion Matrix ----
+ Epoch: 26
+[[1374   50]
+ [  52 1372]]
