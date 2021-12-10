@@ -18,7 +18,7 @@ This folder has the codes to support the main part that implements the TOrC meth
 
 *Colab*: Google Colab notebooks to support execution via cloud. Note that there is one notebook for each architecture configuration: Transfer Layer (TL), one Extra Layer (TLE1L), and two Extra Layers (TLE2L). Moreover, it is required to select GPU to properly run the notebooks. There also some *library* files (.py). Just add all files in the same Google Drive directory and follow the instructions in the notebook.
 
-*Machine*: These programs assume one has a machine (desktop, notebook) with GPU. In this case, there is one Python code for each architecture configuration (TL, TLE1L, TLE2L) and the *library* files (.py) too. Add all files in the same directory in your machine and also run, in the command line:
+*Machine*: These programs assume one has a machine (desktop, notebook) with GPU. In this case, there is one Python code for each architecture configuration (TL, TLE1L, TLE2L) and the *library* files (.py) too. Add all files in the same directory in your machine and also run in the command line:
 ```
 python TOrC_<c>_Alt.py <m> <p> <candp>
 ```
