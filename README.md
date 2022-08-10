@@ -106,4 +106,4 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3 (GPLv3)
 
 ## Reference
 
-V. A. Santiago J&uacute;nior. A Method and Experiment to evaluate Deep Neural Networks as Test Oracles for Scientific Software. In The 3rd ACM/IEEE International Conference on Automation of Software Test (Pittsburgh, PA, USA) (AST 2022; co-located with ICSE 2022). Accepted for publication.
+V. A. Santiago J&uacute;nior. A Method and Experiment to evaluate Deep Neural Networks as Test Oracles for Scientific Software. In: AST '22: IEEE/ACM 3rd International Conference on Automation of Software Test, 2022, Pittsburgh Pennsylvania. Proceedings of the 3rd ACM/IEEE International Conference on Automation of Software Test. New York: ACM, 2022. p. 40-51. Access [here](https://dl.acm.org/doi/10.1145/3524481.3527232).
